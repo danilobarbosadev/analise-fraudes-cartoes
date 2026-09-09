@@ -1,0 +1,457 @@
+﻿cpf,cartao,produto,tipo_conta,data_contestacao,transacao_contestada_valor,data_transacao,hora_transacao,modalidade_fraude,numero_ticket,segmento,tipo_transacao,idade,regiao,uf,estabelecimento,adquirente
+45638970274,,Conta Corrente,Conta Corrente,2026-02-13,925.62,2026-02-12,05:50:00,Pix indevido,CC100364,Private,Online,42,Sul,SC,,
+28034576107,4740136334807779,Cartão,Conta Corrente,2026-01-12,499.68,2026-01-12,01:40:53,Transação recorrente indevida,TK100078,Personnalité,Online,32,Sul,PR,Mercado Livre,Getnet
+42195670894,,Conta Corrente,Conta Corrente,2026-05-03,727.79,2026-05-03,15:30:00,Pix indevido,CC100278,Varejo,Online,49,Sudeste,SP,,
+91375026461,,Conta Corrente,Conta Corrente,2026-03-11,1246.34,2026-03-08,08:17:00,Boleto falso,CC100391,Private,Online,60,Sul,PR,,
+20135649706,,Conta Corrente,Conta Corrente,2026-01-17,1686.1,2026-01-14,22:30:00,Transferência não reconhecida,CC100436,Personnalité,Online,38,Centro-Oeste,DF,,
+48936517066,,Conta Corrente,Conta Corrente,2026-05-31,971.7,2026-05-28,13:29:00,Transferência não reconhecida,CC100290,Varejo,Online,18,Sudeste,ES,,
+36598712491,,Conta Corrente,Conta Corrente,2026-01-08,1846.62,2026-01-07,12:00:00,Pix indevido,CC100218,Varejo,Online,43,Sudeste,RJ,,
+01368497250,4325757346388879,Cartão,Conta Corrente,2026-01-05,766.57,2026-01-03,05:47:52,Compra não reconhecida,TK100082,Private,Online,27,Sul,SC,Eletrônicos Y,Getnet
+17485039601,,Conta Corrente,Conta Corrente,2026-01-13,2025.55,2026-01-10,09:11:00,Boleto falso,CC100433,Varejo,Online,35,Centro-Oeste,GO,,
+79043162507,,Conta Corrente,Conta Corrente,2026-05-19,2299.85,2026-05-16,15:36:00,Transferência não reconhecida,CC100403,Personnalité,Online,32,Nordeste,PB,,
+10936548215,,Conta Corrente,Conta Corrente,2026-06-29,2464.15,2026-06-29,16:22:00,Pix indevido,CC100291,Private,Online,56,Sudeste,RJ,,
+27469851011,4337740018337791,Cartão,Conta Corrente,2026-06-26,1227.99,2026-06-25,22:57:39,Compra não reconhecida,TK100075,Private,Online,22,Sudeste,RJ,Eletrônicos Y,PagSeguro
+12579436006,,Conta Corrente,Conta Corrente,2026-05-21,1307.64,2026-05-19,20:49:00,Boleto falso,CC100225,Personnalité,Online,47,Nordeste,BA,,
+13825094642,,Conta Corrente,Conta Corrente,2026-01-03,1988.24,2025-12-31,06:44:00,Boleto falso,CC100395,Uniclass,Online,59,Nordeste,CE,,
+50814672949,,Conta Corrente,Conta Corrente,2026-06-06,2398.15,2026-06-03,20:47:00,Boleto falso,CC100155,Varejo,Online,43,Sudeste,RJ,,
+74561980393,4906446870703292,Cartão,Conta Corrente,2026-02-13,1128.7,2026-02-10,22:14:56,Compra não reconhecida,TK100076,Varejo,Online,52,Sudeste,SP,PlayStation,Rede
+71569048339,,Conta Corrente,Conta Corrente,2026-06-11,406.55,2026-06-08,08:05:00,Pix indevido,CC100432,Varejo,Online,26,Sudeste,MG,,
+37652814090,,Conta Corrente,Conta Corrente,2026-04-09,1527.21,2026-04-09,22:03:00,Transferência não reconhecida,CC100192,Varejo,Online,18,Centro-Oeste,GO,,
+03896451766,4627480997754023,Cartão,Conta Corrente,2026-03-08,1026.18,2026-03-07,01:02:09,Transação recorrente indevida,TK100073,Private,Online,41,Centro-Oeste,MS,Mercado Livre,Getnet
+46123578090,,Conta Corrente,Conta Corrente,2026-01-04,100.42,2026-01-02,16:44:00,Transferência não reconhecida,CC100153,Uniclass,Online,32,Sudeste,RJ,,
+84536109242,4226141604326675,Cartão,Conta Corrente,2026-02-05,1216.5,2026-02-04,03:40:56,Cartão clonado,TK100009,Varejo,Online,33,Centro-Oeste,GO,PlayStation,PagSeguro
+26590741867,,Conta Corrente,Conta Corrente,2026-06-06,1416.83,2026-06-04,03:54:00,Pix indevido,CC100175,Varejo,Online,35,Sudeste,ES,,
+49785310205,4910725607370658,Cartão,Conta Corrente,2026-04-03,1125.89,2026-03-30,05:31:48,Phishing,TK100030,Uniclass,Online,62,Nordeste,BA,Steam,Stone
+10897426304,,Conta Corrente,Conta Corrente,2026-06-18,42.27,2026-06-15,19:57:00,Transferência não reconhecida,CC100412,Varejo,Online,35,Nordeste,PE,,
+10836594215,4983282899797661,Cartão,Conta Corrente,2026-03-31,1589.75,2026-03-30,22:47:14,Cartão clonado,TK100104,Personnalité,Online,38,Nordeste,PB,Eletrônicos Y,Stone
+26354108951,,Conta Corrente,Conta Corrente,2026-02-01,276.4,2026-01-29,17:33:00,Transferência não reconhecida,CC100132,Varejo,Online,31,Sudeste,MG,,
+68052917395,4866309771405479,Cartão,Conta Corrente,2026-06-20,1254.76,2026-06-18,23:03:23,Cartão clonado,TK100070,Private,Online,27,Sul,RS,PlayStation,Rede
+20786139404,,Conta Corrente,Conta Corrente,2026-02-01,411.03,2026-01-31,16:00:00,Pix indevido,CC100360,Private,Online,31,Sudeste,ES,,
+24890536124,,Conta Corrente,Conta Corrente,2026-03-20,1077.53,2026-03-17,08:51:00,Pix indevido,CC100423,Personnalité,Online,57,Sudeste,MG,,
+86195423700,4762272467108977,Cartão,Conta Corrente,2026-02-14,1221.22,2026-02-13,04:52:49,Phishing,TK100055,Uniclass,Online,46,Sul,RS,Steam,Rede
+26957413080,,Conta Corrente,Conta Corrente,2026-02-16,2367.61,2026-02-15,06:11:00,Pix indevido,CC100373,Personnalité,Online,29,Norte,AM,,
+03896451766,,Conta Corrente,Conta Corrente,2026-01-13,270.99,2026-01-11,05:37:00,Transferência não reconhecida,CC100361,Private,Online,41,Centro-Oeste,MS,,
+41208397532,,Conta Corrente,Conta Corrente,2026-03-04,567.88,2026-03-01,08:52:00,Boleto falso,CC100181,Varejo,Online,21,Sul,PR,,
+65832109759,,Conta Corrente,Conta Corrente,2026-05-31,1673.6,2026-05-31,17:58:00,Boleto falso,CC100418,Uniclass,Online,40,Sudeste,RJ,,
+78396412022,,Conta Corrente,Conta Corrente,2026-02-11,801.34,2026-02-08,00:38:00,Boleto falso,CC100367,Personnalité,Online,33,Sul,RS,,
+65843102726,4199513730033512,Cartão,Conta Corrente,2026-02-15,696.92,2026-02-13,01:10:05,Compra não reconhecida,TK100072,Uniclass,Online,54,Sul,RS,Mercado Livre,Getnet
+97051462334,,Conta Corrente,Conta Corrente,2026-05-11,1671.96,2026-05-09,22:21:00,Transferência não reconhecida,CC100203,Personnalité,Online,78,Sul,SC,,
+61850497249,4503355128074871,Cartão,Conta Corrente,2026-04-10,1301.45,2026-04-09,22:38:03,Compra não reconhecida,TK100101,Varejo,Online,28,Sudeste,ES,PlayStation,Rede
+38617452080,4182902467684615,Cartão,Conta Corrente,2026-01-30,913.89,2026-01-27,04:50:51,Cartão clonado,TK100039,Uniclass,Online,23,Sudeste,ES,PlayStation,Getnet
+51987024397,,Conta Corrente,Conta Corrente,2026-01-31,1889.75,2026-01-31,17:29:00,Pix indevido,CC100317,Varejo,Online,27,Nordeste,RN,,
+17984326509,,Conta Corrente,Conta Corrente,2026-06-27,2195.64,2026-06-25,08:38:00,Pix indevido,CC100338,Personnalité,Online,46,Sudeste,MG,,
+92360814796,,Conta Corrente,Conta Corrente,2026-02-13,1216.69,2026-02-12,21:21:00,Pix indevido,CC100131,Uniclass,Online,51,Sudeste,MG,,
+91784032603,,Conta Corrente,Conta Corrente,2026-06-01,479.84,2026-05-30,00:47:00,Transferência não reconhecida,CC100234,Varejo,Online,45,Nordeste,PB,,
+69723548038,4856429925360624,Cartão,Conta Corrente,2026-06-27,959.99,2026-06-23,22:44:33,Engenharia social,TK100079,Private,Online,48,Norte,RO,PlayStation,Stone
+62857413955,,Conta Corrente,Conta Corrente,2026-06-05,2207.32,2026-06-03,17:23:00,Pix indevido,CC100154,Uniclass,Online,27,Sudeste,RJ,,
+13798520488,4955514872476140,Cartão,Conta Corrente,2026-05-04,667.29,2026-05-04,06:04:16,Cartão clonado,TK100033,Private,Online,51,Sudeste,RJ,Loja Online X,Getnet
+57824096149,,Conta Corrente,Conta Corrente,2026-01-26,1588.39,2026-01-26,20:49:00,Boleto falso,CC100157,Uniclass,Online,47,Sudeste,ES,,
+29034756106,,Conta Corrente,Conta Corrente,2026-06-21,85.01,2026-06-18,19:49:00,Transferência não reconhecida,CC100357,Uniclass,Online,34,Centro-Oeste,MT,,
+05984326710,4590295371513289,Cartão,Conta Corrente,2026-02-07,1413.64,2026-02-05,04:46:04,Cartão clonado,TK100077,Varejo,Online,18,Sudeste,ES,Mercado Livre,Cielo
+03297481650,,Conta Corrente,Conta Corrente,2026-02-15,118.67,2026-02-15,21:28:00,Boleto falso,CC100250,Varejo,Online,63,Sul,SC,,
+10362894787,,Conta Corrente,Conta Corrente,2026-05-31,1573.6,2026-05-28,18:53:00,Pix indevido,CC100383,Uniclass,Online,35,Nordeste,BA,,
+51472390814,4082989296358026,Cartão,Conta Corrente,2026-01-24,567.85,2026-01-20,05:38:45,Compra não reconhecida,TK100015,Varejo,Online,19,Sul,RS,Eletrônicos Y,Cielo
+96742130580,,Conta Corrente,Conta Corrente,2026-04-16,352.91,2026-04-13,13:22:00,Boleto falso,CC100380,Varejo,Online,18,Centro-Oeste,DF,,
+41208397532,,Conta Corrente,Conta Corrente,2026-05-26,1163.24,2026-05-23,12:46:00,Boleto falso,CC100126,Varejo,Online,21,Sul,PR,,
+35412608906,4409802035794035,Cartão,Conta Corrente,2026-04-07,1642.58,2026-04-04,22:54:18,Cartão clonado,TK100000,Varejo,Online,23,Sudeste,SP,Eletrônicos Y,Rede
+81357649010,4879282156161020,Cartão,Conta Corrente,2026-05-21,1467.85,2026-05-21,01:05:06,Cartão clonado,TK100019,Varejo,Online,47,Nordeste,BA,Loja Online X,Getnet
+87254103932,,Conta Corrente,Conta Corrente,2026-01-20,1404.99,2026-01-19,20:35:00,Pix indevido,CC100280,Varejo,Online,36,Sudeste,SP,,
+12654873919,,Conta Corrente,Conta Corrente,2026-04-30,894.21,2026-04-27,17:35:00,Pix indevido,CC100289,Uniclass,Online,43,Sul,PR,,
+27816049501,4844172072224319,Cartão,Conta Corrente,2026-02-17,1018.83,2026-02-16,01:18:42,Cartão clonado,TK100056,Varejo,Online,56,Nordeste,CE,PlayStation,Cielo
+75629013840,,Conta Corrente,Conta Corrente,2026-04-24,2135.28,2026-04-21,08:35:00,Pix indevido,CC100220,Varejo,Online,46,Sudeste,SP,,
+64051873900,,Conta Corrente,Conta Corrente,2026-06-14,219.81,2026-06-14,13:48:00,Transferência não reconhecida,CC100341,Varejo,Online,42,Sudeste,ES,,
+87216394500,4499258362914231,Cartão,Conta Corrente,2026-02-25,1561.71,2026-02-23,04:53:44,Compra não reconhecida,TK100093,Varejo,Online,18,Sudeste,SP,Steam,Stone
+52894317050,,Conta Corrente,Conta Corrente,2026-03-21,1867.23,2026-03-20,15:27:00,Pix indevido,CC100329,Varejo,Online,21,Sul,RS,,
+23860497103,,Conta Corrente,Conta Corrente,2026-06-17,881.49,2026-06-17,12:26:00,Boleto falso,CC100285,Uniclass,Online,29,Sul,RS,,
+09176482340,,Conta Corrente,Conta Corrente,2026-01-11,596.13,2026-01-09,20:26:00,Boleto falso,CC100284,Personnalité,Online,37,Sudeste,SP,,
+05628947130,,Conta Corrente,Conta Corrente,2026-03-08,1542.26,2026-03-05,06:54:00,Pix indevido,CC100371,Varejo,Online,35,Sudeste,ES,,
+24586107308,4494346814391456,Cartão,Conta Corrente,2026-04-13,1031.71,2026-04-11,02:53:16,Compra não reconhecida,TK100025,Uniclass,Online,40,Sudeste,MG,PlayStation,Stone
+68349201703,,Conta Corrente,Conta Corrente,2026-04-05,239.99,2026-04-04,18:20:00,Transferência não reconhecida,CC100365,Varejo,Online,18,Nordeste,RN,,
+38264971555,,Conta Corrente,Conta Corrente,2026-05-16,1390.99,2026-05-13,23:42:00,Transferência não reconhecida,CC100416,Varejo,Online,30,Norte,AM,,
+96573841093,4949762273570507,Cartão,Conta Corrente,2026-02-20,854.11,2026-02-18,03:17:55,Phishing,TK100113,Uniclass,Online,61,Sudeste,MG,PlayStation,PagSeguro
+21058763903,4318510127245273,Cartão,Conta Corrente,2026-05-03,1159.13,2026-04-30,01:26:52,Transação recorrente indevida,TK100042,Varejo,Online,43,Sul,PR,Mercado Livre,Getnet
+91862054398,,Conta Corrente,Conta Corrente,2026-06-21,1344.88,2026-06-18,14:57:00,Boleto falso,CC100165,Uniclass,Online,39,Sul,PR,,
+65274803180,,Conta Corrente,Conta Corrente,2026-05-12,2365.95,2026-05-09,05:01:00,Pix indevido,CC100415,Uniclass,Online,45,Norte,TO,,
+91208345788,,Conta Corrente,Conta Corrente,2026-03-23,1986.03,2026-03-22,20:04:00,Boleto falso,CC100411,Private,Online,29,Sudeste,RJ,,
+10328694703,,Conta Corrente,Conta Corrente,2026-05-05,2087.81,2026-05-05,22:49:00,Transferência não reconhecida,CC100312,Private,Online,32,Sudeste,ES,,
+25816347900,,Conta Corrente,Conta Corrente,2026-02-16,399.11,2026-02-16,16:11:00,Transferência não reconhecida,CC100124,Varejo,Online,39,Nordeste,RN,,
+43019752680,,Conta Corrente,Conta Corrente,2026-06-06,1688.82,2026-06-05,04:13:00,Pix indevido,CC100305,Personnalité,Online,24,Nordeste,PE,,
+17806295402,4238307666387560,Cartão,Conta Corrente,2026-05-23,839.39,2026-05-21,22:38:28,Compra não reconhecida,TK100022,Varejo,Online,31,Sudeste,SP,PlayStation,Getnet
+50613924851,4126334591130764,Cartão,Conta Corrente,2026-01-31,1305.39,2026-01-29,02:08:11,Compra não reconhecida,TK100046,Varejo,Online,62,Sudeste,MG,PlayStation,Cielo
+93482560765,4043813155962932,Cartão,Conta Corrente,2026-05-16,592.61,2026-05-14,23:08:46,Engenharia social,TK100090,Personnalité,Online,58,Sudeste,ES,Steam,Rede
+85637042144,,Conta Corrente,Conta Corrente,2026-06-13,275.72,2026-06-10,00:28:00,Pix indevido,CC100245,Personnalité,Online,29,Nordeste,PE,,
+48125907602,4628208092416675,Cartão,Conta Corrente,2026-03-04,1192.56,2026-03-04,01:44:38,Phishing,TK100116,Varejo,Online,40,Sul,SC,Loja Online X,Rede
+65314790866,,Conta Corrente,Conta Corrente,2026-03-08,2394.15,2026-03-07,08:43:00,Transferência não reconhecida,CC100425,Personnalité,Online,31,Sudeste,ES,,
+96432781078,4905955439769649,Cartão,Conta Corrente,2026-02-04,1262.83,2026-02-02,03:36:09,Compra não reconhecida,TK100057,Uniclass,Online,39,Sul,PR,Eletrônicos Y,Cielo
+92317065868,,Conta Corrente,Conta Corrente,2026-05-02,1700.78,2026-04-30,05:57:00,Pix indevido,CC100137,Varejo,Online,50,Norte,PA,,
+17264053970,4863690010443442,Cartão,Conta Corrente,2026-06-12,785.05,2026-06-11,06:36:03,Cartão clonado,TK100024,Personnalité,Online,31,Sudeste,MG,Steam,Stone
+84059273104,4908350500374585,Cartão,Conta Corrente,2026-04-21,749.56,2026-04-19,06:48:13,Phishing,TK100017,Uniclass,Online,24,Sudeste,MG,PlayStation,Stone
+50682437956,4041641673653541,Cartão,Conta Corrente,2026-01-05,410.57,2026-01-03,03:25:34,Cartão clonado,TK100066,Varejo,Online,37,Sudeste,RJ,Loja Online X,PagSeguro
+65197034866,,Conta Corrente,Conta Corrente,2026-03-13,392.38,2026-03-10,05:14:00,Pix indevido,CC100265,Varejo,Online,19,Sudeste,ES,,
+65409182758,,Conta Corrente,Conta Corrente,2026-04-29,517.53,2026-04-27,06:24:00,Pix indevido,CC100406,Uniclass,Online,43,Sudeste,MG,,
+90123546761,4881170806011040,Cartão,Conta Corrente,2026-03-18,1486.74,2026-03-15,04:44:14,Cartão clonado,TK100031,Uniclass,Online,50,Nordeste,BA,Loja Online X,PagSeguro
+63415087948,4079929372262998,Cartão,Conta Corrente,2026-06-09,1400.07,2026-06-09,05:29:38,Compra não reconhecida,TK100084,Personnalité,Online,49,Sudeste,RJ,Eletrônicos Y,PagSeguro
+49761385264,,Conta Corrente,Conta Corrente,2026-05-21,2049.38,2026-05-18,13:27:00,Pix indevido,CC100378,Personnalité,Online,42,Sul,PR,,
+65148207949,,Conta Corrente,Conta Corrente,2026-03-30,360.46,2026-03-28,07:18:00,Boleto falso,CC100173,Varejo,Online,53,Sudeste,RJ,,
+04798216313,4502053965223451,Cartão,Conta Corrente,2026-06-06,1637.15,2026-06-04,22:23:47,Phishing,TK100094,Uniclass,Online,38,Centro-Oeste,MS,Mercado Livre,PagSeguro
+84976513246,,Conta Corrente,Conta Corrente,2026-02-19,2191.72,2026-02-19,21:37:00,Transferência não reconhecida,CC100227,Varejo,Online,41,Sudeste,MG,,
+59730864101,,Conta Corrente,Conta Corrente,2026-01-08,1213.67,2026-01-07,16:42:00,Boleto falso,CC100429,Varejo,Online,73,Sudeste,RJ,,
+36107594299,,Conta Corrente,Conta Corrente,2026-01-21,2496.8,2026-01-21,19:01:00,Transferência não reconhecida,CC100152,Varejo,Online,41,Sudeste,SP,,
+81062547390,,Conta Corrente,Conta Corrente,2026-03-25,1847.96,2026-03-23,04:47:00,Transferência não reconhecida,CC100355,Uniclass,Online,33,Sudeste,RJ,,
+46798305148,,Conta Corrente,Conta Corrente,2026-02-02,716.7,2026-02-02,09:47:00,Pix indevido,CC100272,Personnalité,Online,59,Sudeste,ES,,
+04813957684,,Conta Corrente,Conta Corrente,2026-04-03,2443.96,2026-04-01,18:51:00,Transferência não reconhecida,CC100419,Varejo,Online,48,Nordeste,PE,,
+51638724008,4284556818821831,Cartão,Conta Corrente,2026-06-09,1299.51,2026-06-08,03:19:14,Engenharia social,TK100005,Varejo,Online,48,Sudeste,ES,Loja Online X,Rede
+32967085103,4284173567013442,Cartão,Conta Corrente,2026-07-01,660.96,2026-06-29,03:21:51,Compra não reconhecida,TK100045,Varejo,Online,45,Centro-Oeste,DF,Loja Online X,PagSeguro
+84509273150,,Conta Corrente,Conta Corrente,2026-05-25,2150.23,2026-05-24,09:24:00,Transferência não reconhecida,CC100148,Private,Online,62,Sudeste,SP,,
+38401765900,,Conta Corrente,Conta Corrente,2026-04-13,815.82,2026-04-12,10:17:00,Boleto falso,CC100428,Varejo,Online,31,Nordeste,BA,,
+32798415691,,Conta Corrente,Conta Corrente,2026-02-01,2199.6,2026-01-29,14:53:00,Transferência não reconhecida,CC100377,Varejo,Online,49,Sudeste,SP,,
+63457289182,,Conta Corrente,Conta Corrente,2026-04-10,566.86,2026-04-07,23:46:00,Transferência não reconhecida,CC100275,Uniclass,Online,60,Sudeste,ES,,
+30476812526,4260264900641157,Cartão,Conta Corrente,2026-04-05,1111.82,2026-04-02,02:33:04,Transação recorrente indevida,TK100016,Uniclass,Online,31,Sudeste,SP,Mercado Livre,PagSeguro
+41925736873,,Conta Corrente,Conta Corrente,2026-02-09,682.65,2026-02-08,18:56:00,Transferência não reconhecida,CC100404,Personnalité,Online,37,Centro-Oeste,DF,,
+41658729382,4816305243268253,Cartão,Conta Corrente,2026-02-25,879.36,2026-02-23,22:28:11,Compra não reconhecida,TK100117,Varejo,Online,38,Sudeste,MG,Mercado Livre,PagSeguro
+27568301435,,Conta Corrente,Conta Corrente,2026-06-22,1726.38,2026-06-19,17:21:00,Transferência não reconhecida,CC100409,Personnalité,Online,55,Sudeste,MG,,
+92147053643,4127154603269471,Cartão,Conta Corrente,2026-01-24,680.92,2026-01-21,03:18:45,Compra não reconhecida,TK100003,Personnalité,Online,30,Nordeste,PE,Mercado Livre,Getnet
+80165492333,4539395267597154,Cartão,Conta Corrente,2026-04-18,1522.04,2026-04-17,05:01:24,Cartão clonado,TK100018,Personnalité,Online,44,Sudeste,ES,Steam,Rede
+51472390814,,Conta Corrente,Conta Corrente,2026-04-08,1141.31,2026-04-08,17:38:00,Transferência não reconhecida,CC100168,Varejo,Online,19,Sul,RS,,
+83961254060,4490705480783542,Cartão,Conta Corrente,2026-03-12,1297.83,2026-03-09,03:41:57,Compra não reconhecida,TK100060,Personnalité,Online,58,Nordeste,PE,Steam,Cielo
+92845367155,,Conta Corrente,Conta Corrente,2026-01-23,2469.52,2026-01-23,10:08:00,Boleto falso,CC100314,Uniclass,Online,38,Sul,RS,,
+20318795612,,Conta Corrente,Conta Corrente,2026-06-03,1260.63,2026-06-03,11:41:00,Pix indevido,CC100356,Varejo,Online,47,Sudeste,MG,,
+72083615417,4229975143844450,Cartão,Conta Corrente,2026-04-09,828.86,2026-04-06,23:09:03,Engenharia social,TK100063,Varejo,Online,36,Sul,RS,Loja Online X,Getnet
+43570826929,4342682715470827,Cartão,Conta Corrente,2026-05-31,864.91,2026-05-28,03:31:49,Cartão clonado,TK100110,Varejo,Online,51,Sudeste,ES,Mercado Livre,Stone
+82047159350,,Conta Corrente,Conta Corrente,2026-04-11,2232.29,2026-04-11,12:01:00,Transferência não reconhecida,CC100277,Varejo,Online,30,Sudeste,RJ,,
+07241538617,,Conta Corrente,Conta Corrente,2026-04-23,2315.11,2026-04-23,09:50:00,Boleto falso,CC100358,Varejo,Online,31,Sudeste,RJ,,
+79814630250,4751860061790537,Cartão,Conta Corrente,2026-04-27,873.39,2026-04-26,06:59:51,Cartão clonado,TK100029,Personnalité,Online,49,Sudeste,MG,Mercado Livre,Getnet
+28069413778,,Conta Corrente,Conta Corrente,2026-05-04,499.44,2026-05-01,06:55:00,Pix indevido,CC100140,Varejo,Online,18,Sul,RS,,
+19780452397,,Conta Corrente,Conta Corrente,2026-06-30,182.53,2026-06-30,17:36:00,Pix indevido,CC100211,Personnalité,Online,24,Sudeste,MG,,
+92845367155,,Conta Corrente,Conta Corrente,2026-01-21,1107.45,2026-01-21,09:25:00,Transferência não reconhecida,CC100229,Uniclass,Online,38,Sul,RS,,
+72194385088,4245336030120697,Cartão,Conta Corrente,2026-06-16,384.44,2026-06-15,02:02:05,Phishing,TK100026,Uniclass,Online,37,Sudeste,MG,Eletrônicos Y,Cielo
+13825094642,4903237685610666,Cartão,Conta Corrente,2026-06-16,872.62,2026-06-13,05:42:13,Compra não reconhecida,TK100007,Uniclass,Online,59,Nordeste,CE,Eletrônicos Y,Cielo
+05972643170,,Conta Corrente,Conta Corrente,2026-04-27,58.99,2026-04-27,13:19:00,Pix indevido,CC100176,Varejo,Online,48,Sudeste,ES,,
+27801496396,,Conta Corrente,Conta Corrente,2026-02-22,1022.94,2026-02-22,16:25:00,Transferência não reconhecida,CC100397,Varejo,Online,41,Sudeste,ES,,
+08436725107,4352870977526520,Cartão,Conta Corrente,2026-03-09,1374.61,2026-03-06,01:34:44,Cartão clonado,TK100108,Personnalité,Online,33,Sudeste,SP,Steam,Stone
+39507216499,,Conta Corrente,Conta Corrente,2026-03-13,2019.52,2026-03-13,16:21:00,Transferência não reconhecida,CC100318,Uniclass,Online,36,Sudeste,MG,,
+78360921431,,Conta Corrente,Conta Corrente,2026-05-23,619.4,2026-05-23,21:51:00,Boleto falso,CC100408,Varejo,Online,30,Sudeste,MG,,
+46875230992,,Conta Corrente,Conta Corrente,2026-05-10,1655.74,2026-05-08,15:51:00,Pix indevido,CC100118,Uniclass,Online,32,Centro-Oeste,MT,,
+07986245158,4334841154495842,Cartão,Conta Corrente,2026-01-15,644.48,2026-01-14,01:55:55,Engenharia social,TK100114,Varejo,Online,45,Nordeste,PB,Mercado Livre,Stone
+25497603106,,Conta Corrente,Conta Corrente,2026-04-12,2297.02,2026-04-10,19:00:00,Transferência não reconhecida,CC100141,Varejo,Online,51,Centro-Oeste,DF,,
+56134720925,,Conta Corrente,Conta Corrente,2026-02-17,889.64,2026-02-14,00:11:00,Transferência não reconhecida,CC100209,Uniclass,Online,18,Sul,PR,,
+30476812526,,Conta Corrente,Conta Corrente,2026-02-04,1987.75,2026-02-03,04:57:00,Pix indevido,CC100324,Uniclass,Online,31,Sudeste,SP,,
+10236579886,,Conta Corrente,Conta Corrente,2026-01-12,2240.95,2026-01-11,00:31:00,Pix indevido,CC100334,Varejo,Online,20,Sudeste,RJ,,
+03659482765,,Conta Corrente,Conta Corrente,2026-02-23,1724.45,2026-02-23,20:47:00,Boleto falso,CC100198,Personnalité,Online,18,Sudeste,RJ,,
+18439765282,,Conta Corrente,Conta Corrente,2026-01-30,900.89,2026-01-28,09:13:00,Transferência não reconhecida,CC100426,Varejo,Online,37,Sudeste,RJ,,
+67042319869,,Conta Corrente,Conta Corrente,2026-03-31,1625.49,2026-03-31,17:58:00,Transferência não reconhecida,CC100389,Personnalité,Online,24,Sudeste,MG,,
+61307592821,,Conta Corrente,Conta Corrente,2026-02-17,2214.01,2026-02-17,06:30:00,Pix indevido,CC100321,Uniclass,Online,23,Norte,PA,,
+29104683722,,Conta Corrente,Conta Corrente,2026-05-18,1720.13,2026-05-16,21:28:00,Pix indevido,CC100352,Varejo,Online,45,Sul,SC,,
+31752904699,,Conta Corrente,Conta Corrente,2026-04-17,2075.18,2026-04-17,15:31:00,Boleto falso,CC100180,Varejo,Online,38,Sudeste,RJ,,
+67824395065,,Conta Corrente,Conta Corrente,2026-01-04,544.59,2026-01-03,22:22:00,Transferência não reconhecida,CC100199,Uniclass,Online,43,Sudeste,RJ,,
+21953647006,4313256660110477,Cartão,Conta Corrente,2026-03-25,947.9,2026-03-22,06:52:46,Cartão clonado,TK100109,Varejo,Online,37,Centro-Oeste,DF,Mercado Livre,Getnet
+28034576107,,Conta Corrente,Conta Corrente,2026-06-03,1589.21,2026-06-03,21:40:00,Boleto falso,CC100431,Personnalité,Online,32,Sul,PR,,
+25789604374,,Conta Corrente,Conta Corrente,2026-02-21,1919.49,2026-02-20,00:39:00,Boleto falso,CC100145,Varejo,Online,40,Sudeste,ES,,
+38650174280,,Conta Corrente,Conta Corrente,2026-03-26,536.79,2026-03-25,22:29:00,Transferência não reconhecida,CC100237,Varejo,Online,37,Sudeste,MG,,
+35912846024,,Conta Corrente,Conta Corrente,2026-06-06,1822.27,2026-06-06,19:39:00,Boleto falso,CC100381,Varejo,Online,21,Sudeste,ES,,
+07648329131,,Conta Corrente,Conta Corrente,2026-03-30,1410.56,2026-03-27,11:44:00,Transferência não reconhecida,CC100398,Varejo,Online,46,Nordeste,CE,,
+28650714994,4944422217623857,Cartão,Conta Corrente,2026-01-25,765.46,2026-01-21,22:09:55,Cartão clonado,TK100083,Personnalité,Online,47,Sul,PR,PlayStation,Rede
+79564823137,,Conta Corrente,Conta Corrente,2026-05-31,280.99,2026-05-30,18:07:00,Pix indevido,CC100407,Uniclass,Online,31,Sudeste,MG,,
+74169023803,,Conta Corrente,Conta Corrente,2026-05-09,1082.47,2026-05-09,21:12:00,Boleto falso,CC100172,Varejo,Online,23,Sudeste,RJ,,
+51243687053,4542514259315454,Cartão,Conta Corrente,2026-04-29,1306.16,2026-04-26,06:09:36,Phishing,TK100074,Uniclass,Online,69,Centro-Oeste,MT,PlayStation,PagSeguro
+10362894787,,Conta Corrente,Conta Corrente,2026-06-01,1685.63,2026-05-31,16:08:00,Boleto falso,CC100351,Uniclass,Online,35,Nordeste,BA,,
+31905264780,,Conta Corrente,Conta Corrente,2026-02-03,1761.9,2026-01-31,06:10:00,Transferência não reconhecida,CC100387,Uniclass,Online,37,Sudeste,MG,,
+87159430620,,Conta Corrente,Conta Corrente,2026-03-04,2364.08,2026-03-01,02:36:00,Boleto falso,CC100119,Uniclass,Online,48,Sul,RS,,
+82953416773,,Conta Corrente,Conta Corrente,2026-01-27,160.26,2026-01-25,00:03:00,Boleto falso,CC100414,Uniclass,Online,43,Nordeste,PE,,
+51472390814,,Conta Corrente,Conta Corrente,2026-03-14,2461.63,2026-03-13,03:26:00,Boleto falso,CC100388,Varejo,Online,19,Sul,RS,,
+58079214379,,Conta Corrente,Conta Corrente,2026-01-06,1855.46,2026-01-06,17:06:00,Boleto falso,CC100193,Uniclass,Online,35,Norte,AM,,
+92810437505,,Conta Corrente,Conta Corrente,2026-05-08,853.55,2026-05-07,07:44:00,Transferência não reconhecida,CC100247,Uniclass,Online,44,Sudeste,RJ,,
+10267485344,,Conta Corrente,Conta Corrente,2026-05-11,1308.0,2026-05-11,21:08:00,Transferência não reconhecida,CC100281,Uniclass,Online,20,Sul,SC,,
+08235697483,,Conta Corrente,Conta Corrente,2026-06-30,552.68,2026-06-27,02:23:00,Transferência não reconhecida,CC100195,Private,Online,43,Sul,SC,,
+29736058492,,Conta Corrente,Conta Corrente,2026-02-22,1279.71,2026-02-20,11:05:00,Pix indevido,CC100301,Personnalité,Online,34,Sudeste,SP,,
+86592430133,,Conta Corrente,Conta Corrente,2026-04-30,136.32,2026-04-28,07:56:00,Boleto falso,CC100336,Varejo,Online,39,Nordeste,RN,,
+62347159070,,Conta Corrente,Conta Corrente,2026-01-25,1753.55,2026-01-23,21:40:00,Boleto falso,CC100222,Varejo,Online,28,Sudeste,SP,,
+25743168946,4429229631635055,Cartão,Conta Corrente,2026-03-31,525.79,2026-03-30,01:38:12,Engenharia social,TK100036,Uniclass,Online,19,Sudeste,ES,Steam,PagSeguro
+13720859630,,Conta Corrente,Conta Corrente,2026-06-01,1169.21,2026-05-31,23:00:00,Pix indevido,CC100139,Private,Online,52,Norte,PA,,
+80621549398,,Conta Corrente,Conta Corrente,2026-04-24,1427.86,2026-04-22,17:41:00,Pix indevido,CC100320,Varejo,Online,74,Nordeste,BA,,
+40628957149,,Conta Corrente,Conta Corrente,2026-05-24,1276.04,2026-05-22,10:19:00,Transferência não reconhecida,CC100184,Varejo,Online,37,Norte,PA,,
+39206187503,,Conta Corrente,Conta Corrente,2026-03-30,2309.55,2026-03-27,13:07:00,Transferência não reconhecida,CC100239,Varejo,Online,43,Nordeste,PB,,
+67358940229,,Conta Corrente,Conta Corrente,2026-05-21,2364.79,2026-05-18,06:55:00,Transferência não reconhecida,CC100253,Personnalité,Online,38,Sul,SC,,
+83726019502,4604260176154207,Cartão,Conta Corrente,2026-06-30,911.95,2026-06-27,01:43:20,Transação recorrente indevida,TK100059,Personnalité,Online,55,Sul,RS,Steam,PagSeguro
+25319870450,4249992482052695,Cartão,Conta Corrente,2026-04-14,937.9,2026-04-13,06:00:47,Compra não reconhecida,TK100111,Uniclass,Online,42,Sudeste,RJ,Steam,Cielo
+93167824573,,Conta Corrente,Conta Corrente,2026-04-03,1393.39,2026-04-03,07:20:00,Boleto falso,CC100196,Varejo,Online,38,Sudeste,ES,,
+74628531080,,Conta Corrente,Conta Corrente,2026-01-29,2009.73,2026-01-26,07:57:00,Pix indevido,CC100208,Varejo,Online,51,Sudeste,RJ,,
+86204713922,4731715789406241,Cartão,Conta Corrente,2026-06-14,365.53,2026-06-13,23:59:51,Engenharia social,TK100006,Personnalité,Online,29,Nordeste,BA,Steam,PagSeguro
+26018549794,,Conta Corrente,Conta Corrente,2026-04-10,1609.18,2026-04-08,05:58:00,Transferência não reconhecida,CC100316,Varejo,Online,56,Sul,RS,,
+65409182758,,Conta Corrente,Conta Corrente,2026-05-18,754.88,2026-05-16,07:27:00,Pix indevido,CC100302,Uniclass,Online,43,Sudeste,MG,,
+50917684249,,Conta Corrente,Conta Corrente,2026-05-30,176.15,2026-05-28,21:17:00,Boleto falso,CC100158,Uniclass,Online,20,Nordeste,PE,,
+04329765829,,Conta Corrente,Conta Corrente,2026-02-22,2257.13,2026-02-22,00:55:00,Boleto falso,CC100150,Uniclass,Online,59,Nordeste,BA,,
+10684739593,,Conta Corrente,Conta Corrente,2026-01-10,275.57,2026-01-08,05:28:00,Transferência não reconhecida,CC100177,Uniclass,Online,35,Sudeste,SP,,
+78621394537,4809204595419431,Cartão,Conta Corrente,2026-05-24,886.81,2026-05-22,23:16:19,Cartão clonado,TK100010,Private,Online,46,Centro-Oeste,MS,Eletrônicos Y,PagSeguro
+39526714873,,Conta Corrente,Conta Corrente,2026-06-04,2431.31,2026-06-03,10:04:00,Pix indevido,CC100231,Personnalité,Online,18,Norte,TO,,
+26175049306,4935141900557115,Cartão,Conta Corrente,2026-04-28,1017.1,2026-04-28,02:00:43,Phishing,TK100103,Varejo,Online,28,Norte,AM,PlayStation,Rede
+10839572603,4511967936524254,Cartão,Conta Corrente,2026-03-02,858.25,2026-02-28,23:58:48,Engenharia social,TK100081,Uniclass,Online,51,Sudeste,SP,Steam,PagSeguro
+04396128703,,Conta Corrente,Conta Corrente,2026-02-16,2238.77,2026-02-16,13:24:00,Boleto falso,CC100249,Varejo,Online,47,Sudeste,SP,,
+30987625438,,Conta Corrente,Conta Corrente,2026-01-17,1154.3,2026-01-17,14:24:00,Pix indevido,CC100274,Varejo,Online,69,Nordeste,CE,,
+51298467020,,Conta Corrente,Conta Corrente,2026-04-07,1833.7,2026-04-06,06:40:00,Pix indevido,CC100167,Varejo,Online,48,Nordeste,BA,,
+21436985005,,Conta Corrente,Conta Corrente,2026-01-27,1346.28,2026-01-24,20:39:00,Transferência não reconhecida,CC100410,Varejo,Online,42,Norte,AM,,
+45923017814,,Conta Corrente,Conta Corrente,2026-02-25,59.83,2026-02-22,09:42:00,Boleto falso,CC100405,Personnalité,Online,25,Nordeste,PB,,
+61307592821,,Conta Corrente,Conta Corrente,2026-03-07,1795.98,2026-03-06,15:07:00,Transferência não reconhecida,CC100322,Uniclass,Online,23,Norte,PA,,
+93245867182,,Conta Corrente,Conta Corrente,2026-04-09,57.28,2026-04-07,02:08:00,Boleto falso,CC100304,Personnalité,Online,48,Sudeste,ES,,
+20369781503,,Conta Corrente,Conta Corrente,2026-03-30,2367.6,2026-03-27,17:12:00,Transferência não reconhecida,CC100210,Uniclass,Online,46,Centro-Oeste,MT,,
+04126389750,,Conta Corrente,Conta Corrente,2026-02-04,979.78,2026-02-04,23:27:00,Boleto falso,CC100194,Uniclass,Online,71,Centro-Oeste,MS,,
+70628349556,4398470270763682,Cartão,Conta Corrente,2026-04-11,874.32,2026-04-08,02:11:35,Engenharia social,TK100089,Varejo,Online,43,Sudeste,ES,Mercado Livre,Getnet
+82704639140,,Conta Corrente,Conta Corrente,2026-03-08,204.83,2026-03-06,00:13:00,Boleto falso,CC100386,Varejo,Online,52,Norte,PA,,
+97860123568,,Conta Corrente,Conta Corrente,2026-03-04,2256.86,2026-03-03,22:56:00,Boleto falso,CC100163,Varejo,Online,29,Sudeste,RJ,,
+65238904142,,Conta Corrente,Conta Corrente,2026-01-29,1231.09,2026-01-28,08:34:00,Pix indevido,CC100204,Varejo,Online,23,Sudeste,ES,,
+70628349556,,Conta Corrente,Conta Corrente,2026-05-04,1568.2,2026-05-03,20:25:00,Pix indevido,CC100147,Varejo,Online,43,Sudeste,ES,,
+94170832523,4973459649384780,Cartão,Conta Corrente,2026-02-08,645.8,2026-02-07,01:22:52,Cartão clonado,TK100002,Uniclass,Online,35,Centro-Oeste,GO,Mercado Livre,Stone
+46579082194,4095364505378943,Cartão,Conta Corrente,2026-05-23,782.18,2026-05-20,05:50:55,Engenharia social,TK100092,Varejo,Online,32,Sudeste,MG,Eletrônicos Y,Getnet
+56134720925,4458310838394781,Cartão,Conta Corrente,2026-01-28,1676.76,2026-01-24,05:52:17,Compra não reconhecida,TK100069,Uniclass,Online,18,Sul,PR,PlayStation,Rede
+29067835447,,Conta Corrente,Conta Corrente,2026-04-04,968.35,2026-04-03,16:22:00,Boleto falso,CC100382,Varejo,Online,53,Sudeste,SP,,
+51704839297,,Conta Corrente,Conta Corrente,2026-06-29,632.82,2026-06-28,05:54:00,Transferência não reconhecida,CC100123,Uniclass,Online,43,Sudeste,RJ,,
+39206187503,,Conta Corrente,Conta Corrente,2026-05-15,379.09,2026-05-12,15:54:00,Pix indevido,CC100323,Varejo,Online,43,Nordeste,PB,,
+39507216499,4552369089102309,Cartão,Conta Corrente,2026-04-07,578.66,2026-04-06,02:39:21,Compra não reconhecida,TK100096,Uniclass,Online,36,Sudeste,MG,Eletrônicos Y,Cielo
+61298437555,,Conta Corrente,Conta Corrente,2026-06-16,1021.95,2026-06-16,03:27:00,Boleto falso,CC100143,Varejo,Online,59,Centro-Oeste,MT,,
+87254103932,,Conta Corrente,Conta Corrente,2026-06-24,687.93,2026-06-22,03:31:00,Transferência não reconhecida,CC100332,Varejo,Online,36,Sudeste,SP,,
+51036798259,,Conta Corrente,Conta Corrente,2026-06-12,149.31,2026-06-12,08:58:00,Transferência não reconhecida,CC100262,Varejo,Online,26,Sudeste,SP,,
+61948725002,4140009230064726,Cartão,Conta Corrente,2026-06-08,1698.81,2026-06-05,02:31:59,Compra não reconhecida,TK100097,Uniclass,Online,39,Sul,RS,Loja Online X,Cielo
+02358914797,,Conta Corrente,Conta Corrente,2026-04-14,495.19,2026-04-14,04:49:00,Transferência não reconhecida,CC100370,Varejo,Online,27,Nordeste,PB,,
+10975368400,4800964596683270,Cartão,Conta Corrente,2026-03-21,1776.01,2026-03-17,23:11:47,Compra não reconhecida,TK100068,Personnalité,Online,31,Sudeste,MG,Eletrônicos Y,PagSeguro
+73628104904,4000770852093058,Cartão,Conta Corrente,2026-06-27,1418.81,2026-06-24,04:15:55,Compra não reconhecida,TK100023,Varejo,Online,28,Sudeste,RJ,Steam,Getnet
+10634527835,4531506213415503,Cartão,Conta Corrente,2026-01-22,908.92,2026-01-18,04:12:33,Compra não reconhecida,TK100037,Uniclass,Online,18,Sul,PR,Steam,PagSeguro
+26018549794,,Conta Corrente,Conta Corrente,2026-03-22,2398.7,2026-03-20,08:15:00,Boleto falso,CC100144,Varejo,Online,56,Sul,RS,,
+03962857400,,Conta Corrente,Conta Corrente,2026-05-07,1030.83,2026-05-05,19:41:00,Boleto falso,CC100122,Uniclass,Online,32,Sudeste,MG,,
+03297481650,,Conta Corrente,Conta Corrente,2026-04-28,1926.9,2026-04-27,05:31:00,Transferência não reconhecida,CC100394,Varejo,Online,63,Sul,SC,,
+54190837601,,Conta Corrente,Conta Corrente,2026-06-02,366.31,2026-06-02,09:25:00,Transferência não reconhecida,CC100202,Varejo,Online,42,Nordeste,RN,,
+32459876173,,Conta Corrente,Conta Corrente,2026-05-04,121.77,2026-05-01,02:27:00,Pix indevido,CC100182,Personnalité,Online,28,Norte,PA,,
+82496735146,4228935736976646,Cartão,Conta Corrente,2026-03-24,1413.12,2026-03-23,06:24:22,Compra não reconhecida,TK100067,Varejo,Online,32,Sul,PR,Steam,Rede
+20615943870,,Conta Corrente,Conta Corrente,2026-03-14,2150.36,2026-03-11,15:31:00,Transferência não reconhecida,CC100417,Private,Online,63,Sudeste,ES,,
+14523076871,,Conta Corrente,Conta Corrente,2026-04-18,1403.9,2026-04-17,06:54:00,Pix indevido,CC100266,Varejo,Online,40,Sudeste,RJ,,
+05416239743,,Conta Corrente,Conta Corrente,2026-05-26,2422.61,2026-05-26,04:23:00,Transferência não reconhecida,CC100376,Varejo,Online,45,Sudeste,MG,,
+37652814090,,Conta Corrente,Conta Corrente,2026-05-02,1445.88,2026-04-30,23:54:00,Pix indevido,CC100307,Varejo,Online,18,Centro-Oeste,GO,,
+15378920612,,Conta Corrente,Conta Corrente,2026-05-30,909.77,2026-05-29,08:58:00,Transferência não reconhecida,CC100261,Private,Online,54,Sudeste,ES,,
+13056879493,,Conta Corrente,Conta Corrente,2026-01-07,2309.13,2026-01-04,03:13:00,Pix indevido,CC100347,Uniclass,Online,36,Nordeste,PE,,
+63415087948,,Conta Corrente,Conta Corrente,2026-06-26,1479.86,2026-06-24,01:33:00,Boleto falso,CC100238,Personnalité,Online,49,Sudeste,RJ,,
+65937802438,,Conta Corrente,Conta Corrente,2026-04-22,80.06,2026-04-21,16:29:00,Boleto falso,CC100125,Personnalité,Online,29,Sudeste,MG,,
+03184962598,,Conta Corrente,Conta Corrente,2026-01-16,1112.72,2026-01-13,20:52:00,Transferência não reconhecida,CC100146,Uniclass,Online,57,Sul,RS,,
+10394567234,,Conta Corrente,Conta Corrente,2026-05-08,1481.39,2026-05-07,01:44:00,Pix indevido,CC100335,Personnalité,Online,31,Sudeste,SP,,
+96742130580,,Conta Corrente,Conta Corrente,2026-02-26,2466.61,2026-02-23,12:09:00,Transferência não reconhecida,CC100375,Varejo,Online,18,Centro-Oeste,DF,,
+58674109276,,Conta Corrente,Conta Corrente,2026-02-12,988.89,2026-02-11,14:32:00,Boleto falso,CC100223,Uniclass,Online,42,Sudeste,SP,,
+92416570811,,Conta Corrente,Conta Corrente,2026-01-29,906.21,2026-01-27,13:34:00,Boleto falso,CC100228,Varejo,Online,43,Sudeste,RJ,,
+63409721525,4884069580991618,Cartão,Conta Corrente,2026-03-26,1429.85,2026-03-24,03:07:16,Cartão clonado,TK100086,Uniclass,Online,59,Nordeste,PB,Loja Online X,Stone
+54962780310,,Conta Corrente,Conta Corrente,2026-01-15,2072.98,2026-01-15,00:21:00,Boleto falso,CC100368,Uniclass,Online,41,Sudeste,RJ,,
+13627958012,,Conta Corrente,Conta Corrente,2026-05-10,1517.32,2026-05-10,02:28:00,Boleto falso,CC100219,Uniclass,Online,53,Sul,RS,,
+47158263053,,Conta Corrente,Conta Corrente,2026-03-12,1378.51,2026-03-11,09:09:00,Pix indevido,CC100248,Varejo,Online,27,Nordeste,BA,,
+67489231078,,Conta Corrente,Conta Corrente,2026-03-19,2127.61,2026-03-19,19:44:00,Transferência não reconhecida,CC100369,Varejo,Online,40,Sudeste,MG,,
+24108563735,,Conta Corrente,Conta Corrente,2026-03-21,1033.59,2026-03-18,23:42:00,Pix indevido,CC100244,Personnalité,Online,18,Nordeste,RN,,
+95201478379,,Conta Corrente,Conta Corrente,2026-01-22,873.98,2026-01-21,12:39:00,Transferência não reconhecida,CC100286,Personnalité,Online,40,Sudeste,RJ,,
+95246381005,,Conta Corrente,Conta Corrente,2026-05-01,675.64,2026-04-30,22:16:00,Pix indevido,CC100331,Varejo,Online,43,Sudeste,RJ,,
+51243687053,,Conta Corrente,Conta Corrente,2026-06-22,2153.43,2026-06-22,05:07:00,Transferência não reconhecida,CC100183,Uniclass,Online,69,Centro-Oeste,MT,,
+18276495346,,Conta Corrente,Conta Corrente,2026-01-01,2448.81,2025-12-31,08:36:00,Pix indevido,CC100246,Varejo,Online,50,Sudeste,SP,,
+97153406280,,Conta Corrente,Conta Corrente,2026-04-11,2251.76,2026-04-08,13:10:00,Boleto falso,CC100311,Varejo,Online,27,Sudeste,ES,,
+70519468384,,Conta Corrente,Conta Corrente,2026-06-09,772.38,2026-06-08,04:29:00,Boleto falso,CC100255,Varejo,Online,43,Sudeste,ES,,
+67195480348,,Conta Corrente,Conta Corrente,2026-01-06,1464.39,2026-01-03,21:35:00,Pix indevido,CC100310,Varejo,Online,30,Sudeste,MG,,
+36840927113,,Conta Corrente,Conta Corrente,2026-06-10,2442.91,2026-06-09,13:22:00,Pix indevido,CC100129,Uniclass,Online,49,Norte,RO,,
+80954271360,4281110474393389,Cartão,Conta Corrente,2026-03-27,1763.72,2026-03-25,23:17:35,Cartão clonado,TK100038,Uniclass,Online,57,Centro-Oeste,GO,Steam,Stone
+56937042892,4946649708667259,Cartão,Conta Corrente,2026-05-15,1760.38,2026-05-13,05:25:22,Compra não reconhecida,TK100011,Varejo,Online,38,Sul,RS,Steam,Getnet
+16073845901,,Conta Corrente,Conta Corrente,2026-06-19,780.72,2026-06-18,17:11:00,Transferência não reconhecida,CC100297,Varejo,Online,31,Norte,RO,,
+52793140643,,Conta Corrente,Conta Corrente,2026-02-21,2206.37,2026-02-18,17:38:00,Transferência não reconhecida,CC100185,Varejo,Online,37,Nordeste,RN,,
+10362894787,,Conta Corrente,Conta Corrente,2026-06-24,1273.05,2026-06-22,06:48:00,Boleto falso,CC100298,Uniclass,Online,35,Nordeste,BA,,
+21508976368,,Conta Corrente,Conta Corrente,2026-02-24,679.68,2026-02-24,21:44:00,Pix indevido,CC100346,Uniclass,Online,54,Sudeste,ES,,
+68732149069,4368493110262707,Cartão,Conta Corrente,2026-02-21,1105.65,2026-02-20,23:30:24,Transação recorrente indevida,TK100112,Varejo,Online,39,Nordeste,CE,Loja Online X,Getnet
+86537042992,,Conta Corrente,Conta Corrente,2026-04-28,221.52,2026-04-27,07:10:00,Transferência não reconhecida,CC100179,Varejo,Online,38,Nordeste,PB,,
+07915683268,,Conta Corrente,Conta Corrente,2026-03-11,262.71,2026-03-09,09:39:00,Transferência não reconhecida,CC100268,Uniclass,Online,30,Sudeste,SP,,
+29461073887,,Conta Corrente,Conta Corrente,2026-04-18,98.41,2026-04-18,08:56:00,Pix indevido,CC100296,Varejo,Online,19,Sudeste,ES,,
+87504932132,,Conta Corrente,Conta Corrente,2026-03-12,33.73,2026-03-10,20:33:00,Transferência não reconhecida,CC100287,Personnalité,Online,68,Sudeste,RJ,,
+42785039629,,Conta Corrente,Conta Corrente,2026-03-31,2029.45,2026-03-29,05:09:00,Boleto falso,CC100421,Uniclass,Online,31,Nordeste,CE,,
+56398210786,,Conta Corrente,Conta Corrente,2026-04-26,878.05,2026-04-26,02:35:00,Pix indevido,CC100384,Personnalité,Online,33,Sudeste,SP,,
+76859130202,,Conta Corrente,Conta Corrente,2026-02-11,1548.24,2026-02-11,14:41:00,Transferência não reconhecida,CC100233,Personnalité,Online,35,Nordeste,PB,,
+46718293555,,Conta Corrente,Conta Corrente,2026-06-30,2077.04,2026-06-30,11:01:00,Boleto falso,CC100271,Private,Online,45,Sul,RS,,
+96503217803,,Conta Corrente,Conta Corrente,2026-03-29,455.42,2026-03-26,09:08:00,Transferência não reconhecida,CC100164,Uniclass,Online,44,Sudeste,SP,,
+04798216313,,Conta Corrente,Conta Corrente,2026-01-21,565.01,2026-01-18,03:34:00,Pix indevido,CC100136,Uniclass,Online,38,Centro-Oeste,MS,,
+87659421085,,Conta Corrente,Conta Corrente,2026-01-10,355.5,2026-01-08,00:43:00,Boleto falso,CC100197,Personnalité,Online,53,Sudeste,MG,,
+83590246774,,Conta Corrente,Conta Corrente,2026-06-21,1411.26,2026-06-18,08:59:00,Pix indevido,CC100258,Personnalité,Online,28,Sudeste,SP,,
+83796524109,,Conta Corrente,Conta Corrente,2026-01-18,1572.87,2026-01-16,17:43:00,Pix indevido,CC100232,Personnalité,Online,21,Sudeste,SP,,
+61934725099,4715715297587859,Cartão,Conta Corrente,2026-05-13,454.96,2026-05-10,02:07:51,Compra não reconhecida,TK100115,Varejo,Online,42,Centro-Oeste,DF,PlayStation,PagSeguro
+32156490716,,Conta Corrente,Conta Corrente,2026-04-04,815.95,2026-04-04,05:39:00,Boleto falso,CC100120,Uniclass,Online,45,Sudeste,RJ,,
+43291806506,,Conta Corrente,Conta Corrente,2026-06-20,2066.42,2026-06-19,15:06:00,Transferência não reconhecida,CC100224,Varejo,Online,55,Norte,PA,,
+50132687968,,Conta Corrente,Conta Corrente,2026-05-01,2039.43,2026-05-01,10:08:00,Boleto falso,CC100353,Personnalité,Online,35,Sudeste,MG,,
+12309875414,,Conta Corrente,Conta Corrente,2026-04-18,2302.72,2026-04-15,14:11:00,Pix indevido,CC100294,Personnalité,Online,25,Sudeste,RJ,,
+27591608312,,Conta Corrente,Conta Corrente,2026-05-14,525.65,2026-05-11,20:13:00,Pix indevido,CC100127,Personnalité,Online,27,Sudeste,SP,,
+92854673000,,Conta Corrente,Conta Corrente,2026-01-23,1127.1,2026-01-22,05:54:00,Pix indevido,CC100362,Varejo,Online,41,Nordeste,PE,,
+28057149388,4356956832222808,Cartão,Conta Corrente,2026-03-04,1100.93,2026-03-01,01:24:30,Phishing,TK100107,Personnalité,Online,18,Nordeste,PE,Eletrônicos Y,Stone
+16290457802,,Conta Corrente,Conta Corrente,2026-01-07,1063.33,2026-01-07,22:06:00,Pix indevido,CC100325,Varejo,Online,41,Sudeste,SP,,
+96027531886,,Conta Corrente,Conta Corrente,2026-03-07,1026.4,2026-03-07,19:35:00,Pix indevido,CC100133,Varejo,Online,42,Sudeste,MG,,
+71038264987,,Conta Corrente,Conta Corrente,2026-06-19,2039.63,2026-06-19,20:10:00,Boleto falso,CC100393,Varejo,Online,28,Sudeste,ES,,
+98521673400,4947634276065448,Cartão,Conta Corrente,2026-01-16,408.95,2026-01-15,05:19:04,Compra não reconhecida,TK100044,Uniclass,Online,30,Sudeste,SP,PlayStation,Rede
+82934057674,,Conta Corrente,Conta Corrente,2026-03-28,170.36,2026-03-27,10:56:00,Boleto falso,CC100402,Personnalité,Online,18,Sudeste,ES,,
+15802493615,4121707824168742,Cartão,Conta Corrente,2026-01-12,1049.25,2026-01-10,02:38:34,Compra não reconhecida,TK100065,Uniclass,Online,26,Sudeste,SP,Loja Online X,Cielo
+41208397532,,Conta Corrente,Conta Corrente,2026-02-09,1661.49,2026-02-09,23:40:00,Transferência não reconhecida,CC100283,Varejo,Online,21,Sul,PR,,
+45980612785,4261418094124274,Cartão,Conta Corrente,2026-05-06,756.39,2026-05-06,03:36:08,Compra não reconhecida,TK100085,Uniclass,Online,32,Nordeste,RN,PlayStation,Cielo
+63279108403,,Conta Corrente,Conta Corrente,2026-02-17,1905.52,2026-02-16,18:11:00,Boleto falso,CC100242,Varejo,Online,31,Sudeste,MG,,
+91275038603,,Conta Corrente,Conta Corrente,2026-06-11,1163.53,2026-06-11,21:10:00,Boleto falso,CC100186,Varejo,Online,27,Centro-Oeste,MS,,
+19270835677,,Conta Corrente,Conta Corrente,2026-05-16,145.09,2026-05-14,16:54:00,Boleto falso,CC100159,Varejo,Online,55,Sudeste,MG,,
+94637081203,4365660485508322,Cartão,Conta Corrente,2026-05-19,1712.5,2026-05-15,22:22:25,Compra não reconhecida,TK100012,Varejo,Online,50,Sudeste,SP,Steam,Rede
+23961804524,4072087696163791,Cartão,Conta Corrente,2026-04-08,575.79,2026-04-04,22:33:52,Compra não reconhecida,TK100035,Varejo,Online,41,Sudeste,ES,Mercado Livre,Rede
+65238904142,4534332030047215,Cartão,Conta Corrente,2026-02-21,627.84,2026-02-21,02:41:53,Compra não reconhecida,TK100028,Varejo,Online,23,Sudeste,ES,Steam,Stone
+29803475150,,Conta Corrente,Conta Corrente,2026-03-23,1378.56,2026-03-21,08:29:00,Transferência não reconhecida,CC100170,Personnalité,Online,48,Sudeste,MG,,
+65314790866,,Conta Corrente,Conta Corrente,2026-01-26,2164.63,2026-01-25,18:30:00,Boleto falso,CC100142,Personnalité,Online,31,Sudeste,ES,,
+56209314805,,Conta Corrente,Conta Corrente,2026-06-07,538.2,2026-06-04,18:31:00,Pix indevido,CC100349,Private,Online,24,Sudeste,ES,,
+51208347608,,Conta Corrente,Conta Corrente,2026-04-08,2408.28,2026-04-06,11:03:00,Pix indevido,CC100299,Personnalité,Online,29,Sul,SC,,
+75914623855,,Conta Corrente,Conta Corrente,2026-01-14,637.43,2026-01-12,02:15:00,Boleto falso,CC100221,Personnalité,Online,36,Sudeste,SP,,
+95812643709,4718942402900139,Cartão,Conta Corrente,2026-05-20,441.69,2026-05-17,01:02:44,Phishing,TK100095,Personnalité,Online,50,Sudeste,MG,PlayStation,Cielo
+18935427691,4437787861396691,Cartão,Conta Corrente,2026-02-19,573.49,2026-02-18,23:26:41,Compra não reconhecida,TK100051,Varejo,Online,45,Sudeste,RJ,PlayStation,Getnet
+56081924351,,Conta Corrente,Conta Corrente,2026-04-17,2206.26,2026-04-14,21:56:00,Transferência não reconhecida,CC100240,Varejo,Online,25,Sul,RS,,
+21460759885,,Conta Corrente,Conta Corrente,2026-05-31,2072.87,2026-05-31,00:19:00,Transferência não reconhecida,CC100327,Varejo,Online,22,Sul,SC,,
+19864732013,,Conta Corrente,Conta Corrente,2026-05-14,790.44,2026-05-13,11:02:00,Boleto falso,CC100333,Personnalité,Online,18,Nordeste,PE,,
+93245867182,,Conta Corrente,Conta Corrente,2026-04-26,1750.66,2026-04-24,14:29:00,Boleto falso,CC100178,Personnalité,Online,48,Sudeste,ES,,
+56398210786,4405464286403056,Cartão,Conta Corrente,2026-05-13,413.58,2026-05-12,23:12:20,Engenharia social,TK100041,Personnalité,Online,33,Sudeste,SP,Steam,PagSeguro
+72981063502,,Conta Corrente,Conta Corrente,2026-04-10,1911.33,2026-04-10,09:19:00,Pix indevido,CC100340,Uniclass,Online,36,Sudeste,MG,,
+89457361075,,Conta Corrente,Conta Corrente,2026-04-09,2320.19,2026-04-08,17:13:00,Transferência não reconhecida,CC100206,Personnalité,Online,32,Sul,SC,,
+21769534016,,Conta Corrente,Conta Corrente,2026-01-05,2322.5,2026-01-05,06:56:00,Boleto falso,CC100282,Varejo,Online,33,Nordeste,BA,,
+93254087674,,Conta Corrente,Conta Corrente,2026-05-16,2388.48,2026-05-15,10:08:00,Transferência não reconhecida,CC100254,Uniclass,Online,39,Sudeste,MG,,
+98521673400,,Conta Corrente,Conta Corrente,2026-03-30,46.11,2026-03-29,09:55:00,Boleto falso,CC100396,Uniclass,Online,30,Sudeste,SP,,
+59640712361,4924838195275092,Cartão,Conta Corrente,2026-05-14,360.43,2026-05-14,02:44:51,Cartão clonado,TK100004,Private,Online,47,Sudeste,SP,PlayStation,Getnet
+21508976368,,Conta Corrente,Conta Corrente,2026-02-09,2384.07,2026-02-07,17:37:00,Transferência não reconhecida,CC100256,Uniclass,Online,54,Sudeste,ES,,
+97860123568,,Conta Corrente,Conta Corrente,2026-02-02,1007.24,2026-01-30,10:29:00,Boleto falso,CC100392,Varejo,Online,29,Sudeste,RJ,,
+16490528398,4253857088588412,Cartão,Conta Corrente,2026-04-11,1037.28,2026-04-08,22:08:47,Cartão clonado,TK100100,Varejo,Online,57,Sudeste,RJ,Loja Online X,Stone
+58961732021,,Conta Corrente,Conta Corrente,2026-01-25,793.2,2026-01-23,12:05:00,Pix indevido,CC100226,Varejo,Online,53,Sudeste,ES,,
+24651098398,,Conta Corrente,Conta Corrente,2026-03-25,1714.87,2026-03-22,18:35:00,Transferência não reconhecida,CC100374,Uniclass,Online,73,Norte,RO,,
+31470826950,,Conta Corrente,Conta Corrente,2026-04-12,989.4,2026-04-09,19:20:00,Transferência não reconhecida,CC100213,Personnalité,Online,46,Sul,PR,,
+71543692800,,Conta Corrente,Conta Corrente,2026-06-24,1225.1,2026-06-24,14:07:00,Pix indevido,CC100171,Uniclass,Online,41,Sul,RS,,
+73895260177,4220587848943643,Cartão,Conta Corrente,2026-06-18,616.79,2026-06-15,03:16:12,Cartão clonado,TK100098,Varejo,Online,53,Sudeste,ES,Eletrônicos Y,Cielo
+92307456180,,Conta Corrente,Conta Corrente,2026-03-21,796.23,2026-03-21,14:24:00,Transferência não reconhecida,CC100292,Varejo,Online,52,Sudeste,ES,,
+47560832938,,Conta Corrente,Conta Corrente,2026-04-06,517.09,2026-04-04,16:22:00,Boleto falso,CC100215,Varejo,Online,64,Sul,RS,,
+74352619809,4205893614218554,Cartão,Conta Corrente,2026-04-24,1048.39,2026-04-22,05:05:28,Compra não reconhecida,TK100061,Varejo,Online,45,Centro-Oeste,DF,Mercado Livre,Getnet
+98260731487,4426880838380647,Cartão,Conta Corrente,2026-04-08,464.85,2026-04-07,04:33:48,Cartão clonado,TK100047,Varejo,Online,43,Sul,PR,Mercado Livre,PagSeguro
+03297481650,4244621453757756,Cartão,Conta Corrente,2026-01-27,531.31,2026-01-27,05:00:14,Compra não reconhecida,TK100032,Varejo,Online,63,Sul,SC,Mercado Livre,Cielo
+42785039629,,Conta Corrente,Conta Corrente,2026-04-11,2070.65,2026-04-08,10:31:00,Boleto falso,CC100267,Uniclass,Online,31,Nordeste,CE,,
+83906724131,,Conta Corrente,Conta Corrente,2026-04-30,1886.45,2026-04-30,20:16:00,Transferência não reconhecida,CC100200,Personnalité,Online,28,Sudeste,ES,,
+35912846024,,Conta Corrente,Conta Corrente,2026-06-12,1864.19,2026-06-10,23:55:00,Pix indevido,CC100390,Varejo,Online,21,Sudeste,ES,,
+01459672399,4890857032519779,Cartão,Conta Corrente,2026-06-03,1572.55,2026-06-02,01:50:36,Compra não reconhecida,TK100027,Varejo,Online,20,Sudeste,RJ,PlayStation,PagSeguro
+32798415691,,Conta Corrente,Conta Corrente,2026-06-29,1640.49,2026-06-29,18:33:00,Transferência não reconhecida,CC100342,Varejo,Online,49,Sudeste,SP,,
+12854036905,,Conta Corrente,Conta Corrente,2026-06-30,1675.43,2026-06-27,21:21:00,Pix indevido,CC100230,Varejo,Online,60,Sudeste,SP,,
+38129065703,,Conta Corrente,Conta Corrente,2026-03-05,450.98,2026-03-03,08:35:00,Boleto falso,CC100260,Personnalité,Online,21,Sudeste,ES,,
+63415087948,,Conta Corrente,Conta Corrente,2026-06-15,1038.15,2026-06-12,08:51:00,Transferência não reconhecida,CC100288,Personnalité,Online,49,Sudeste,RJ,,
+26903517499,,Conta Corrente,Conta Corrente,2026-06-23,2148.1,2026-06-20,18:27:00,Transferência não reconhecida,CC100162,Varejo,Online,40,Sudeste,MG,,
+08475293123,,Conta Corrente,Conta Corrente,2026-04-08,173.87,2026-04-05,21:43:00,Pix indevido,CC100424,Uniclass,Online,44,Nordeste,CE,,
+74169023803,,Conta Corrente,Conta Corrente,2026-05-05,2288.38,2026-05-04,15:53:00,Pix indevido,CC100138,Varejo,Online,23,Sudeste,RJ,,
+47156230808,4189137692301221,Cartão,Conta Corrente,2026-01-28,662.43,2026-01-26,03:53:40,Compra não reconhecida,TK100062,Uniclass,Online,41,Sudeste,SP,Loja Online X,Cielo
+92854016785,,Conta Corrente,Conta Corrente,2026-05-16,1731.49,2026-05-15,17:22:00,Transferência não reconhecida,CC100135,Varejo,Online,31,Sudeste,MG,,
+08235697483,,Conta Corrente,Conta Corrente,2026-06-15,396.72,2026-06-12,05:32:00,Pix indevido,CC100128,Private,Online,43,Sul,SC,,
+37429085610,4067455418956449,Cartão,Conta Corrente,2026-02-03,1395.18,2026-02-03,04:35:27,Engenharia social,TK100008,Varejo,Online,37,Nordeste,CE,Loja Online X,Stone
+68052917395,,Conta Corrente,Conta Corrente,2026-03-13,2413.99,2026-03-13,04:17:00,Transferência não reconhecida,CC100326,Private,Online,27,Sul,RS,,
+48936517066,4332880139796518,Cartão,Conta Corrente,2026-01-29,1368.7,2026-01-28,06:06:10,Compra não reconhecida,TK100064,Varejo,Online,18,Sudeste,ES,Steam,Rede
+36971082559,,Conta Corrente,Conta Corrente,2026-05-05,2035.12,2026-05-02,15:12:00,Transferência não reconhecida,CC100300,Varejo,Online,19,Sudeste,RJ,,
+27036158417,4342174823970583,Cartão,Conta Corrente,2026-05-05,583.81,2026-05-03,04:01:15,Engenharia social,TK100014,Varejo,Online,45,Sudeste,RJ,PlayStation,Cielo
+74203985188,,Conta Corrente,Conta Corrente,2026-05-11,135.77,2026-05-09,16:42:00,Pix indevido,CC100156,Uniclass,Online,41,Nordeste,BA,,
+79105482658,4701610095803727,Cartão,Conta Corrente,2026-04-16,574.43,2026-04-15,06:16:16,Cartão clonado,TK100040,Varejo,Online,34,Sudeste,RJ,Loja Online X,PagSeguro
+62107439869,,Conta Corrente,Conta Corrente,2026-04-14,2277.76,2026-04-12,08:42:00,Transferência não reconhecida,CC100401,Uniclass,Online,18,Sul,RS,,
+48720531923,,Conta Corrente,Conta Corrente,2026-05-07,2349.92,2026-05-06,07:01:00,Transferência não reconhecida,CC100354,Private,Online,21,Nordeste,BA,,
+56937042892,,Conta Corrente,Conta Corrente,2026-02-20,1205.01,2026-02-19,21:51:00,Boleto falso,CC100216,Varejo,Online,38,Sul,RS,,
+38910754648,,Conta Corrente,Conta Corrente,2026-02-12,1985.69,2026-02-09,04:14:00,Transferência não reconhecida,CC100279,Varejo,Online,50,Sudeste,MG,,
+87361402526,,Conta Corrente,Conta Corrente,2026-04-22,2396.46,2026-04-20,20:06:00,Pix indevido,CC100379,Uniclass,Online,23,Centro-Oeste,MT,,
+15498367066,,Conta Corrente,Conta Corrente,2026-06-04,946.58,2026-06-04,01:00:00,Boleto falso,CC100337,Varejo,Online,40,Nordeste,PE,,
+89341026750,,Conta Corrente,Conta Corrente,2026-05-28,1373.81,2026-05-27,17:26:00,Boleto falso,CC100236,Personnalité,Online,28,Sul,RS,,
+80734621507,,Conta Corrente,Conta Corrente,2026-04-26,2397.86,2026-04-25,11:23:00,Pix indevido,CC100207,Uniclass,Online,36,Sudeste,MG,,
+96547130207,,Conta Corrente,Conta Corrente,2026-06-17,1648.91,2026-06-14,10:35:00,Pix indevido,CC100212,Varejo,Online,50,Sudeste,ES,,
+12309875414,,Conta Corrente,Conta Corrente,2026-01-02,287.39,2025-12-30,23:53:00,Boleto falso,CC100295,Personnalité,Online,25,Sudeste,RJ,,
+04615789211,,Conta Corrente,Conta Corrente,2026-05-17,1259.03,2026-05-17,06:59:00,Pix indevido,CC100399,Personnalité,Online,18,Sul,RS,,
+74169023803,,Conta Corrente,Conta Corrente,2026-04-07,935.68,2026-04-06,14:00:00,Transferência não reconhecida,CC100251,Varejo,Online,23,Sudeste,RJ,,
+79814630250,,Conta Corrente,Conta Corrente,2026-05-13,2372.51,2026-05-13,08:22:00,Boleto falso,CC100427,Personnalité,Online,49,Sudeste,MG,,
+45980612785,,Conta Corrente,Conta Corrente,2026-01-07,547.41,2026-01-05,01:43:00,Transferência não reconhecida,CC100400,Uniclass,Online,32,Nordeste,RN,,
+72634098103,,Conta Corrente,Conta Corrente,2026-04-13,2304.3,2026-04-12,11:31:00,Transferência não reconhecida,CC100303,Uniclass,Online,28,Sudeste,SP,,
+27816049501,,Conta Corrente,Conta Corrente,2026-01-06,1031.6,2026-01-05,07:04:00,Boleto falso,CC100350,Varejo,Online,56,Nordeste,CE,,
+54781239609,,Conta Corrente,Conta Corrente,2026-05-25,235.21,2026-05-24,23:17:00,Boleto falso,CC100269,Varejo,Online,55,Norte,PA,,
+59730864101,,Conta Corrente,Conta Corrente,2026-06-16,1282.84,2026-06-16,20:08:00,Transferência não reconhecida,CC100201,Varejo,Online,73,Sudeste,RJ,,
+18476930240,,Conta Corrente,Conta Corrente,2026-02-08,1496.84,2026-02-06,16:33:00,Pix indevido,CC100161,Varejo,Online,39,Centro-Oeste,DF,,
+82953416773,4355171483220814,Cartão,Conta Corrente,2026-05-02,1319.96,2026-05-02,01:57:41,Compra não reconhecida,TK100043,Uniclass,Online,43,Nordeste,PE,Loja Online X,PagSeguro
+61789230403,,Conta Corrente,Conta Corrente,2026-02-28,2397.65,2026-02-27,22:20:00,Transferência não reconhecida,CC100217,Personnalité,Online,46,Norte,PA,,
+08934271523,,Conta Corrente,Conta Corrente,2026-01-17,290.51,2026-01-16,23:46:00,Transferência não reconhecida,CC100190,Personnalité,Online,56,Centro-Oeste,MS,,
+46718293555,,Conta Corrente,Conta Corrente,2026-04-12,907.98,2026-04-10,00:34:00,Boleto falso,CC100309,Private,Online,45,Sul,RS,,
+86972150485,,Conta Corrente,Conta Corrente,2026-02-18,346.64,2026-02-16,05:27:00,Pix indevido,CC100259,Uniclass,Online,48,Sudeste,SP,,
+38129065703,4569658988504585,Cartão,Conta Corrente,2026-01-18,1366.93,2026-01-16,06:08:31,Phishing,TK100105,Personnalité,Online,21,Sudeste,ES,Eletrônicos Y,Rede
+42897051620,4564996120411746,Cartão,Conta Corrente,2026-05-03,442.92,2026-05-01,22:05:38,Compra não reconhecida,TK100053,Personnalité,Online,40,Sudeste,ES,Loja Online X,Cielo
+04289715397,4601386350788097,Cartão,Conta Corrente,2026-05-13,1189.41,2026-05-10,01:13:58,Phishing,TK100001,Personnalité,Online,18,Sudeste,SP,PlayStation,Cielo
+43872051997,,Conta Corrente,Conta Corrente,2026-06-04,1778.64,2026-06-02,16:25:00,Boleto falso,CC100422,Varejo,Online,60,Sudeste,ES,,
+87659421085,4932572722849047,Cartão,Conta Corrente,2026-04-06,594.53,2026-04-04,06:50:14,Compra não reconhecida,TK100049,Personnalité,Online,53,Sudeste,MG,Steam,Stone
+10684739593,4116192190180054,Cartão,Conta Corrente,2026-03-15,1335.39,2026-03-12,06:30:29,Compra não reconhecida,TK100080,Uniclass,Online,35,Sudeste,SP,Eletrônicos Y,Stone
+89042376104,,Conta Corrente,Conta Corrente,2026-06-10,2045.95,2026-06-07,05:32:00,Pix indevido,CC100205,Varejo,Online,31,Nordeste,PE,,
+62104759307,4979191611014514,Cartão,Conta Corrente,2026-01-24,1758.86,2026-01-22,02:34:00,Phishing,TK100034,Personnalité,Online,18,Sudeste,RJ,Eletrônicos Y,Cielo
+17862409396,,Conta Corrente,Conta Corrente,2026-04-22,1501.03,2026-04-20,09:25:00,Boleto falso,CC100263,Uniclass,Online,69,Norte,PA,,
+37512609434,,Conta Corrente,Conta Corrente,2026-04-12,860.53,2026-04-09,05:37:00,Boleto falso,CC100366,Varejo,Online,18,Sudeste,SP,,
+94718230560,4325683047099979,Cartão,Conta Corrente,2026-01-23,805.12,2026-01-20,03:36:17,Compra não reconhecida,TK100091,Varejo,Online,46,Sudeste,SP,Steam,Rede
+10394567234,,Conta Corrente,Conta Corrente,2026-05-02,1916.28,2026-04-30,07:04:00,Boleto falso,CC100339,Personnalité,Online,31,Sudeste,SP,,
+23506871986,4731706588729265,Cartão,Conta Corrente,2026-04-09,1629.13,2026-04-06,04:15:10,Compra não reconhecida,TK100052,Personnalité,Online,60,Sudeste,SP,Steam,Stone
+45980612785,,Conta Corrente,Conta Corrente,2026-03-31,2073.55,2026-03-30,12:20:00,Pix indevido,CC100345,Uniclass,Online,32,Nordeste,RN,,
+12439786519,,Conta Corrente,Conta Corrente,2026-01-20,857.42,2026-01-17,21:23:00,Transferência não reconhecida,CC100264,Varejo,Online,27,Sul,SC,,
+71634059875,,Conta Corrente,Conta Corrente,2026-02-06,2012.49,2026-02-03,23:48:00,Boleto falso,CC100241,Uniclass,Online,41,Sudeste,RJ,,
+38562947164,4818078493792135,Cartão,Conta Corrente,2026-03-18,1507.05,2026-03-18,01:50:00,Cartão clonado,TK100013,Varejo,Online,32,Nordeste,PB,Steam,PagSeguro
+59640712361,,Conta Corrente,Conta Corrente,2026-03-24,1375.59,2026-03-23,15:25:00,Boleto falso,CC100315,Private,Online,47,Sudeste,SP,,
+16290457802,4945590950604986,Cartão,Conta Corrente,2026-04-07,1652.28,2026-04-06,06:36:55,Engenharia social,TK100088,Varejo,Online,41,Sudeste,SP,Steam,Getnet
+19864732013,,Conta Corrente,Conta Corrente,2026-05-03,1514.38,2026-05-01,12:32:00,Boleto falso,CC100273,Personnalité,Online,18,Nordeste,PE,,
+32459876173,,Conta Corrente,Conta Corrente,2026-01-09,2316.45,2026-01-06,16:01:00,Pix indevido,CC100166,Personnalité,Online,28,Norte,PA,,
+30862145708,,Conta Corrente,Conta Corrente,2026-04-19,2419.03,2026-04-19,14:33:00,Transferência não reconhecida,CC100328,Personnalité,Online,26,Sudeste,ES,,
+02947156811,,Conta Corrente,Conta Corrente,2026-01-11,2008.19,2026-01-10,21:42:00,Transferência não reconhecida,CC100430,Private,Online,18,Sudeste,ES,,
+07139426813,,Conta Corrente,Conta Corrente,2026-01-11,67.37,2026-01-08,07:51:00,Pix indevido,CC100134,Varejo,Online,35,Nordeste,RN,,
+18346970269,,Conta Corrente,Conta Corrente,2026-05-09,2326.51,2026-05-08,14:04:00,Transferência não reconhecida,CC100306,Personnalité,Online,18,Sul,SC,,
+92034571606,,Conta Corrente,Conta Corrente,2026-06-01,1050.45,2026-05-29,02:55:00,Boleto falso,CC100420,Uniclass,Online,68,Sudeste,RJ,,
+42510869370,,Conta Corrente,Conta Corrente,2026-05-30,144.03,2026-05-29,19:53:00,Transferência não reconhecida,CC100319,Uniclass,Online,50,Nordeste,PE,,
+17083465975,,Conta Corrente,Conta Corrente,2026-01-18,844.26,2026-01-16,22:59:00,Boleto falso,CC100243,Private,Online,42,Centro-Oeste,MT,,
+07648329131,4236082606437992,Cartão,Conta Corrente,2026-01-16,1159.22,2026-01-14,03:14:58,Cartão clonado,TK100054,Varejo,Online,46,Nordeste,CE,Mercado Livre,Getnet
+64783921555,,Conta Corrente,Conta Corrente,2026-05-18,1962.28,2026-05-18,21:08:00,Pix indevido,CC100363,Varejo,Online,18,Sudeste,SP,,
+62107439869,4278622095620974,Cartão,Conta Corrente,2026-03-16,540.35,2026-03-14,23:01:02,Engenharia social,TK100050,Uniclass,Online,18,Sul,RS,Eletrônicos Y,Getnet
+04329765829,,Conta Corrente,Conta Corrente,2026-02-12,1675.9,2026-02-10,00:18:00,Boleto falso,CC100174,Uniclass,Online,59,Nordeste,BA,,
+56839047148,,Conta Corrente,Conta Corrente,2026-03-13,1440.7,2026-03-10,00:39:00,Pix indevido,CC100189,Varejo,Online,39,Centro-Oeste,MS,,
+74628531080,,Conta Corrente,Conta Corrente,2026-03-11,2466.73,2026-03-11,21:06:00,Transferência não reconhecida,CC100434,Varejo,Online,51,Sudeste,RJ,,
+89042376104,,Conta Corrente,Conta Corrente,2026-03-27,426.12,2026-03-27,20:05:00,Transferência não reconhecida,CC100187,Varejo,Online,31,Nordeste,PE,,
+75284690338,,Conta Corrente,Conta Corrente,2026-02-21,176.14,2026-02-20,16:42:00,Transferência não reconhecida,CC100169,Personnalité,Online,51,Sul,RS,,
+58369124089,4272690397322785,Cartão,Conta Corrente,2026-04-12,1399.76,2026-04-09,05:33:52,Compra não reconhecida,TK100058,Varejo,Online,49,Sudeste,ES,PlayStation,Getnet
+18627493022,4355276226901057,Cartão,Conta Corrente,2026-02-24,1560.66,2026-02-22,04:22:09,Engenharia social,TK100048,Varejo,Online,43,Sudeste,RJ,Eletrônicos Y,Cielo
+48936517066,,Conta Corrente,Conta Corrente,2026-05-05,1879.17,2026-05-03,21:26:00,Boleto falso,CC100344,Varejo,Online,18,Sudeste,ES,,
+57824096149,,Conta Corrente,Conta Corrente,2026-05-18,417.14,2026-05-15,08:28:00,Transferência não reconhecida,CC100235,Uniclass,Online,47,Sudeste,ES,,
+25743168946,,Conta Corrente,Conta Corrente,2026-06-13,1915.03,2026-06-13,14:42:00,Boleto falso,CC100252,Uniclass,Online,19,Sudeste,ES,,
+59831207602,4162854642627904,Cartão,Conta Corrente,2026-01-18,769.91,2026-01-18,03:39:28,Cartão clonado,TK100021,Varejo,Online,26,Centro-Oeste,MS,Eletrônicos Y,Getnet
+02947156811,,Conta Corrente,Conta Corrente,2026-01-11,1835.39,2026-01-09,02:59:00,Pix indevido,CC100313,Private,Online,18,Sudeste,ES,,
+12853796086,,Conta Corrente,Conta Corrente,2026-02-01,766.18,2026-01-30,08:30:00,Pix indevido,CC100160,Private,Online,50,Sudeste,SP,,
+07915683268,,Conta Corrente,Conta Corrente,2026-06-27,1595.01,2026-06-25,21:46:00,Pix indevido,CC100276,Uniclass,Online,30,Sudeste,SP,,
+80621549398,,Conta Corrente,Conta Corrente,2026-03-05,1406.24,2026-03-04,13:03:00,Pix indevido,CC100191,Varejo,Online,74,Nordeste,BA,,
+86917340510,,Conta Corrente,Conta Corrente,2026-03-19,2126.95,2026-03-18,19:39:00,Boleto falso,CC100385,Personnalité,Online,25,Sudeste,MG,,
+72083615417,,Conta Corrente,Conta Corrente,2026-05-18,1994.08,2026-05-17,01:58:00,Pix indevido,CC100293,Varejo,Online,36,Sul,RS,,
+31280479523,,Conta Corrente,Conta Corrente,2026-02-23,876.74,2026-02-23,00:22:00,Boleto falso,CC100413,Personnalité,Online,43,Nordeste,RN,,
+65238904142,,Conta Corrente,Conta Corrente,2026-05-04,1362.87,2026-05-01,15:07:00,Boleto falso,CC100343,Varejo,Online,23,Sudeste,ES,,
+40628957149,,Conta Corrente,Conta Corrente,2026-03-02,1546.06,2026-02-27,14:16:00,Boleto falso,CC100257,Varejo,Online,37,Norte,PA,,
+91375026461,,Conta Corrente,Conta Corrente,2026-03-23,2287.44,2026-03-20,01:41:00,Boleto falso,CC100308,Private,Online,60,Sul,PR,,
+85679102420,,Conta Corrente,Conta Corrente,2026-05-20,815.63,2026-05-19,19:05:00,Transferência não reconhecida,CC100149,Varejo,Online,26,Nordeste,RN,,
+86579302429,,Conta Corrente,Conta Corrente,2026-01-07,1968.87,2026-01-07,17:40:00,Boleto falso,CC100130,Uniclass,Online,34,Sul,PR,,
+92147053643,,Conta Corrente,Conta Corrente,2026-04-18,1744.11,2026-04-18,23:29:00,Pix indevido,CC100151,Personnalité,Online,30,Nordeste,PE,,
+32506189424,,Conta Corrente,Conta Corrente,2026-02-26,2007.08,2026-02-24,10:39:00,Transferência não reconhecida,CC100359,Uniclass,Online,49,Norte,PA,,
+29387450104,4538931288856458,Cartão,Conta Corrente,2026-04-02,1490.99,2026-04-02,02:05:18,Compra não reconhecida,TK100099,Private,Online,20,Sudeste,ES,Mercado Livre,Stone
+86235097140,,Conta Corrente,Conta Corrente,2026-05-22,2194.05,2026-05-22,16:22:00,Transferência não reconhecida,CC100372,Uniclass,Online,54,Sudeste,RJ,,
+93167824573,4605347880128478,Cartão,Conta Corrente,2026-06-22,664.06,2026-06-19,05:30:55,Cartão clonado,TK100087,Varejo,Online,38,Sudeste,ES,Loja Online X,Stone
+95071826321,,Conta Corrente,Conta Corrente,2026-02-08,1783.73,2026-02-07,05:26:00,Boleto falso,CC100330,Varejo,Online,64,Sudeste,MG,,
+61789230403,,Conta Corrente,Conta Corrente,2026-06-02,1494.59,2026-06-01,09:43:00,Pix indevido,CC100214,Personnalité,Online,46,Norte,PA,,
+32745601890,,Conta Corrente,Conta Corrente,2026-02-14,1267.7,2026-02-13,13:25:00,Transferência não reconhecida,CC100121,Varejo,Online,53,Sul,SC,,
+54970613893,,Conta Corrente,Conta Corrente,2026-06-15,288.28,2026-06-12,13:42:00,Transferência não reconhecida,CC100437,Varejo,Online,67,Nordeste,RN,,
+53874291600,4383472186551952,Cartão,Conta Corrente,2026-07-01,814.93,2026-06-29,23:34:01,Compra não reconhecida,TK100020,Varejo,Online,27,Sudeste,ES,Eletrônicos Y,Rede
+35184760920,,Conta Corrente,Conta Corrente,2026-06-15,72.0,2026-06-13,09:54:00,Boleto falso,CC100188,Uniclass,Online,50,Nordeste,PB,,
+49205873179,4387018593813693,Cartão,Conta Corrente,2026-06-21,1256.72,2026-06-18,04:47:35,Compra não reconhecida,TK100071,Uniclass,Online,33,Sul,RS,PlayStation,Stone
+87329064122,4245106467998546,Cartão,Conta Corrente,2026-03-03,371.85,2026-03-02,22:37:07,Phishing,TK100106,Varejo,Online,52,Sul,SC,Mercado Livre,Stone
+32697150803,,Conta Corrente,Conta Corrente,2026-06-08,2178.18,2026-06-06,21:40:00,Boleto falso,CC100270,Personnalité,Online,40,Sul,SC,,
+93486750283,,Conta Corrente,Conta Corrente,2026-03-17,2463.16,2026-03-17,02:27:00,Pix indevido,CC100348,Uniclass,Online,42,Centro-Oeste,MT,,
+68732149069,,Conta Corrente,Conta Corrente,2026-02-19,1470.66,2026-02-19,14:00:00,Boleto falso,CC100435,Varejo,Online,39,Nordeste,CE,,
+94287156382,4990469244288784,Cartão,Conta Corrente,2026-02-02,971.34,2026-01-31,22:08:10,Cartão clonado,TK100102,Varejo,Online,26,Sudeste,MG,Loja Online X,PagSeguro
+95246381005,,Conta Corrente,Conta Corrente,2026-05-01,675.64,2026-04-30,22:16:00,Pix indevido,CC100331 ,Varejo,Online,43,Sudeste,RJ,,
+83590246774,,Conta Corrente,Conta Corrente,2026-06-21,1411.26,2026-06-18,08:59:00,Pix indevido,CC100258 ,Personnalité,Online,28,Sudeste,SP,,
+87254103932,,Conta Corrente,Conta Corrente,2026-01-20,1404.99,2026-01-19,20:35:00,Pix indevido,CC100280 ,Varejo,Online,36,Sudeste,SP,,
+96742130580,,Conta Corrente,Conta Corrente,2026-04-16,352.91,2026-04-13,13:22:00,Boleto falso,CC100380 ,Varejo,Online,18,Centro-Oeste,DF,,
+79814630250,,Conta Corrente,Conta Corrente,2026-05-13,2372.51,2026-05-13,08:22:00,Boleto falso,CC100427 ,Personnalité,Online,49,Sudeste,MG,,
+96503217803,,Conta Corrente,Conta Corrente,2026-03-29,455.42,2026-03-26,09:08:00,Transferência não reconhecida,CC100164 ,Uniclass,Online,44,Sudeste,SP,,
+10975368400,4800964596683270,Cartão,Conta Corrente,2026-03-21,1776.01,2026-03-17,23:11:47,Compra não reconhecida,TK100068 ,Personnalité,Online,31,Sudeste,MG,Eletrônicos Y,PagSeguro
+32459876173,,Conta Corrente,Conta Corrente,2026-05-04,121.77,2026-05-01,02:27:00,Pix indevido,CC100182 ,Personnalité,Online,28,Norte,PA,,
+83961254060,4490705480783542,Cartão,Conta Corrente,2026-03-12,1297.83,2026-03-09,03:41:57,Compra não reconhecida,TK100060 ,Personnalité,Online,58,Nordeste,PE,Steam,Cielo
+64051873900,,Conta Corrente,Conta Corrente,2026-06-14,219.81,2026-06-14,13:48:00,Transferência não reconhecida,CC100341 ,Varejo,Online,42,Sudeste,ES,,
+46718293555,,Conta Corrente,Conta Corrente,2026-06-30,2077.04,2026-06-30,11:01:00,Boleto falso,CC100271 ,Private,Online,45,Sul,RS,,
+21953647006,4313256660110477,Cartão,Conta Corrente,2026-03-25,947.9,2026-03-22,06:52:46,Cartão clonado,TK100109 ,Varejo,Online,37,Centro-Oeste,DF,Mercado Livre,Getnet
+51208347608,,Conta Corrente,Conta Corrente,2026-04-08,2408.28,2026-04-06,11:03:00,Pix indevido,CC100299 ,Personnalité,Online,29,Sul,SC,,
+80621549398,,Conta Corrente,Conta Corrente,2026-03-05,1406.24,2026-03-04,13:03:00,Pix indevido,CC100191 ,Varejo,Online,74,Nordeste,BA,,
+86204713922,4731715789406241,Cartão,Conta Corrente,2026-06-14,365.53,2026-06-13,23:59:51,Engenharia social,TK100006 ,Personnalité,Online,29,Nordeste,BA,Steam,PagSeguro
+64783921555,,Conta Corrente,Conta Corrente,2026-05-18,1962.28,2026-05-18,21:08:00,Pix indevido,CC100363 ,Varejo,Online,18,Sudeste,SP,,
+16290457802,4945590950604986,Cartão,Conta Corrente,2026-04-07,1652.28,2026-04-06,06:36:55,Engenharia social,TK100088 ,Varejo,Online,41,Sudeste,SP,Steam,Getnet
+80734621507,,Conta Corrente,Conta Corrente,2026-04-26,2397.86,2026-04-25,11:23:00,Pix indevido,CC100207 ,Uniclass,Online,36,Sudeste,MG,,
